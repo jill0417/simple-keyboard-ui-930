@@ -1,0 +1,28 @@
+.keyboard {
+  display: flex;
+  height: 10rem;
+}
+.octaveCont {
+  position: relative;
+  width: 15rem;
+}
+.whitekeyCont {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: stretch;
+}
+.whiteKey {
+  flex: 1;
+}
+.blackKeyCont {
+  position: absolute;
+  top: ex;
+  display: flex;
+  height: 50%;
+  width: 100%;
+  align-items: stretch;
+}
+.balckKey {
+  flex: 1;
+}
